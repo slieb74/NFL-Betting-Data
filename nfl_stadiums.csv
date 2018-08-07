@@ -1,0 +1,101 @@
+stadium_name,stadium_location,stadium_open,stadium_close,stadium_type,stadium_address,stadium_weather_station_code,stadium_weather_type,stadium_capacity,stadium_surface,STATION,NAME,LATITUDE,LONGITUDE,ELEVATION
+Alamo Dome,"San Antonio, TX",,,indoor,"100 Montana St, San Antonio, TX 78203",78203,dome,72000,FieldTurf,,,,,
+Alltel Stadium,"Jacksonville, FL",,,,,,,,,,,,,
+Alumni Stadium,"Chestnut Hill, MA",,,outdoor,"Perimeter Rd, Chestnut Hill, MA 02467",02467,cold,,Grass,,,,,
+Anaheim Stadium,"Anaheim, CA",1980,1994,outdoor,"2000 E Gene Autry Way, Anaheim, CA 92806",92806,warm,,,,,,,
+Arrowhead Stadium,"Kansas City, MO",1972,,outdoor,"1 Arrowhead Dr, Kansas City, MO 64129",64129,cold,"76,416",Grass,US1MOJC0028,"KANSAS CITY 5.1 SE, MO US",39.0692,-94.4871,264.9
+AT&T Stadium,"Arlington, TX",2009,,retractable,"1 AT&T Way, Arlington, TX 76011",76011,dome,"80,000",FieldTurf,USC00410337,"ARLINGTON SIX FLAGS, TX US",32.7572,-97.0736,163.4
+Atlanta-Fulton County Stadium,"Atlanta, GA",1966,1991,outdoor,"521 Capitol Avenue SE, Atlanta, Georgia 30312",30312,warm,,,,,,,
+Balboa Stadium,"San Diego, CA",,,outdoor,"Balboa Stadium, San Diego, CA 92101",92101,warm,,Grass,,,,,
+Bank of America Stadium,"Charlotte, NC",1996,2016,outdoor,"800 S Mint St, Charlotte, NC 28202",28202,moderate,"73,778",Grass,USW00013881,"CHARLOTTE DOUGLAS AIRPORT, NC US",35.2236,-80.9552,221.9
+Busch Memorial Stadium,"St. Louis, MO",1966,1995,outdoor,"700 Clark Ave, St. Louis, MO 63102",63102,cold,,,USC00238791,"WEBSTER GROVES, MO US",38.56667,-90.36667,189
+Candlestick Park,"San Francisco, CA",1960,2013,outdoor,"490 Jamestown Ave, San Francisco, CA 94124",94124,moderate,,,USW00023234,"SAN FRANCISCO INTERNATIONAL AIRPORT, CA US",37.6197,-122.3647,2.4
+CenturyLink Field,"Seattle, WA",2002,,outdoor,"800 Occidental Ave S, Seattle, WA 98134",98134,moderate,"67,000",FieldTurf,US1WAKG0038,"SEATTLE 3.5 NW, WA US",47.6523,-122.4095,93
+Cinergy Field,"Cincinnati, OH",1970,1999,outdoor,"201 East Joe Nuxhall Way, Cincinnati 45202",45202,cold,,,USW00003871,"CINCINNATI WEATHER SERVICE OFFICE CITY, OH US",39.1,-84.51667,193.9
+Cleveland Municipal Stadium,"Cleveland, OH",1931,1995,outdoor,"1085 West 3rd Street, Cleveland, Ohio 44114",44114,cold,,,USW00014820,"CLEVELAND HOPKINS INTERNATIONAL AIRPORT, OH US",41.4057,-81.852,238
+Cotton Bowl,"Dallas, TX",,,outdoor,"1300 Robert B Cullum Blvd., Dallas, TX 75210",75210,moderate,,"Grass, Turf (1970-1971)",,,,,
+Cowboys Stadium,"Arlington, TX",2009,,retractable,"1 AT&T Way, Arlington, TX 76011",76011,dome,"80,000",FieldTurf,USC00410337,"ARLINGTON SIX FLAGS, TX US",32.7572,-97.0736,163.4
+Dolphin Stadium,"Miami, FL",,,,,,,,,,,,,
+Edward Jones Dome,"St. Louis, MO",1995,,indoor,"901 N Broadway, St. Louis, MO 63101",63101,dome,,,,,,,
+Estadio Azteca,"Mexico City, Mexico",1966,,outdoor,"Calz. de Tlalpan 3465, Sta. ê_rsula Coapa, Coyoac_†çn, 04650 Ciudad de MÅ_xico, D.F., Mexico","Mexico City, MX",warm,,,,,,,
+EverBank Field,"Jacksonville, FL",1995,,outdoor,"1 Everbank Field Dr, Jacksonville, FL 32202",32202,warm,"67,264",Grass,USW00093837,"JACKSONVILLE NAS, FL US",30.23333,-81.66667,6.1
+FedExField,"Landover, MD",1997,2016,outdoor,"1600 Fedex Way, Hyattsville, MD 20785",20785,moderate,"79,000",Grass,USC00186350,"NATIONAL ARBORETUM DC, MD US",38.9133,-76.97,15.2
+FirstEnergy Stadium,"Cleveland, OH",1999,,outdoor,"100 Alfred Lerner Way, Cleveland, OH 44114",44114,cold,"68,000",Grass,USW00014820,"CLEVELAND HOPKINS INTERNATIONAL AIRPORT, OH US",41.4057,-81.852,238
+Ford Field,"Detroit, MI",2002,,indoor,"2000 Brush St, Detroit, MI 48226",48226,dome,"65,000",FieldTurf,,,,,
+Foxboro Stadium,"Foxborough, MA",1971,2001,outdoor,"1 Patriot Pl, Foxborough, MA 02035",02035,cold,,,USC00190860,"BROCKTON, MA US",42.0479,-71.005,24.4
+Franklin Field,"Philadelphia, PA",,,outdoor,"S. 33rd and Spruce St., Philadelphia, PA 19104",19104,cold,,"Grass, Turf (1969-1970)",,,,,
+Georgia Dome,"Atlanta, GA",1992,,indoor,"1 Georgia Dome Dr, Atlanta, GA 30313",30313,dome,"71,250",FieldTurf,,,,,
+Giants Stadium,"East Rutherford, NJ",1976,2009,outdoor,"1 MetLife Stadium Dr, East Rutherford, NJ 07073",07073,cold,,,USW00014734,"NEWARK LIBERTY INTERNATIONAL AIRPORT, NJ US",40.6825,-74.1694,2.1
+Gillette Stadium,"Foxborough, MA",2002,,outdoor,"1 Patriot Pl, Foxborough, MA 02035",02035,cold,"68,756",FieldTurf,USC00190860,"BROCKTON, MA US",42.0479,-71.005,24.4
+Hard Rock Stadium,"Miami Gardens, FL",1987,,outdoor,"347 Don Shula Dr, Miami Gardens, FL 33056",33056,warm,"65,326",Grass,USW00012839,"MIAMI INTERNATIONAL AIRPORT, FL US",25.7905,-80.3163,8.8
+Harvard Stadium,"Boston, MA",1970,1970,outdoor,"95 N Harvard St., Boston, MA 02134",02134,cold,"70,000",Grass,,,,,
+Heinz Field,"Pittsburgh, PA",2001,,outdoor,"100 Art Rooney Ave, Pittsburgh, PA 15212",15212,cold,"65,500",Grass,USW00094823,"PITTSBURGH ASOS, PA US",40.4846,-80.2144,366.7
+Houlihan's Stadium,"Tampa, FL",1969,1997,outdoor,"4201 North Dale Mabry Highway, Tampa, Florida 33607",33607,warm,,,USW00012842,"TAMPA INTERNATIONAL AIRPORT, FL US",27.96194,-82.5403,5.8
+Houston Astrodome,"Houston, TX",1968,1996,indoor,"Houston, TX 77054",77054,dome,,,,,,,
+Hubert H. Humphrey Metrodome,"Minneapolis, MN",1982,2009,indoor,"900 S 5th St, Minneapolis, MN 55415",55415,dome,,,,,,,
+Husky Stadium,"Seattle, WA",2000,2001,outdoor,"University of Washington, 3800 Montlake Blvd NE, Seattle, WA 98195",98195,moderate,,,US1WAKG0038,"SEATTLE 3.5 NW, WA US",47.6523,-122.4095,93
+Jack Murphy Stadium,"San Diego, CA",,,,,,,,,,,,,
+Joe Robbie Stadium,"Miami, FL",,,,,,,,,,,,,
+Kansas City Municipal Stadium,"Kansas City, MO",,,outdoor,"Brooklyn Ave & E. 22nd St., Kansas City, MO 64127",64127,cold,,Grass,,,,,
+Kezar Stadium,"San Francisco, CA",,1970,outdoor,"755 Stanyan Street, San Francisco, California 94117",94117,moderate,,Grass,,,,,
+Lambeau Field,"Green Bay, WI",1957,,outdoor,"1265 Lombardi Ave, Green Bay, WI 54304",54304,cold,"80,735",Grass,USW00014898,"GREEN BAY AUSTIN STRAUBEL INTERNATIONAL AIRPORT, WI US",44.4794,-88.1366,209.4
+Levi's Stadium,"Santa Clara, CA",2014,2016,outdoor,"4900 Marie P. DeBartolo Way, Santa Clara, CA 95054",95054,moderate,"68,500",Grass,USW00023234,"SAN FRANCISCO INTERNATIONAL AIRPORT, CA US",37.6197,-122.3647,2.4
+Liberty Bowl Memorial Stadium,"Memphis, TN",1997,1997,outdoor,"335 S Hollywood St, Memphis, TN 38104",38104,moderate,,,,,,,
+Lincoln Financial Field,"Philadelphia, PA",2003,,outdoor,"1020 Pattison Ave, Philadelphia, PA 19148",19148,cold,"69,176",Grass,USW00013739,"PHILADELPHIA INTERNATIONAL AIRPORT, PA US",39.87327,-75.22678,3
+Los Angeles Memorial Coliseum,"Los Angeles, CA",1946,,outdoor,"3911 S Figueroa St, Los Angeles, CA 90037",90037,warm,"93,605",Grass,USW00023174,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",33.938,-118.3888,29.6
+Louisiana Superdome,"New Orleans, LA",1975,,indoor,"1500 Sugar Bowl Dr, New Orleans, LA 70112",70112,dome,"76,468",FieldTurf,,,,,
+LP Stadium,"Nashville, TN",1999,2016,outdoor,"1 Titans Way, Nashville, TN 37213",37213,moderate,"69,143",Grass,USW00013897,"NASHVILLE INTERNATIONAL AIRPORT, TN US",36.11889,-86.68917,182.9
+Lucas Oil Stadium,"Indianapolis, IN",2008,,retractable,"500 S Capitol Ave, Indianapolis, IN 46225",46225,dome,"63,000",FieldTurf,US1INMR0076,"INDIANAPOLIS 6.8 NNE, IN US",39.8721,-86.1201,227.1
+M&T Bank Stadium,"Baltimore, MD",1998,,outdoor,"1101 Russell St, Baltimore, MD 21230",21230,moderate,"71,008",FieldTurf,USW00093721,"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",39.1733,-76.684,47.5
+Mall of America Field,"Minneapolis, MN",2009,2013,indoor,"900 S 5th St, Minneapolis, MN 55415",55415,dome,,,,,,,
+Memorial Stadium (Baltimore),"Baltimore, MD",1946,1997,outdoor,"900 E 33rd St, Baltimore, MD 21218",21218,moderate,,,USW00093721,"BALTIMORE WASHINGTON INTERNATIONAL AIRPORT, MD US",39.1733,-76.684,47.5
+Memorial Stadium (Champaign),"Champaign, IL",2002,2002,outdoor,"1402 S 1st St, Champaign, IL 61820",61820,cold,,,,,,,
+Memorial Stadium (Clemson),"Clemson, SC",1995,1995,outdoor,"1 Avenue of Champions, Clemson, SC 29634",29634,moderate,,,,,,,
+Mercedes-Benz Superdome,"New Orleans, LA",1975,,indoor,"1500 Sugar Bowl Dr, New Orleans, LA 70112",70112,dome,"76,468",FieldTurf,,,,,
+MetLife Stadium,"East Rutherford, NJ",2010,,outdoor,"1 MetLife Stadium Dr, East Rutherford, NJ 07073",07073,cold,"82,500",FieldTurf,USW00014734,"NEWARK LIBERTY INTERNATIONAL AIRPORT, NJ US",40.6825,-74.1694,2.1
+Metropolitan Stadium,"Bloomington, MN",1959,1981,outdoor,"8000 Cedar Avenue South, Bloomington, Minnesota 55425",55425,cold,,,USW00014922,"MINNEAPOLIS ST PAUL INTERNATIONAL AIRPORT, MN US",44.8831,-93.2289,265.8
+Mile High Stadium,"Denver, CO",1960,2000,outdoor,"1701 Bryant St, Denver, CO 80204",80204,cold,,,USW00023062,"DENVER STAPLETON, CO US",39.7633,-104.8694,1611.2
+New Era Field,"Orchard Park, NY",1973,,outdoor,"1 Bills Dr, Orchard Park, NY 14127",14127,cold,"73,967",FieldTurf,US1NYER0093,"BUFFALO 1.5 W, NY US",42.889,-78.8901,178
+Nippert Stadium,"Cincinnati, OH",,,outdoor,"2700 Bearcats Way (99 W Corry St.), Cincinnati, OH 45221",45221,cold,,Grass,,,,,
+Nissan Stadium,"Nashville, TN",1999,2016,outdoor,"1 Titans Way, Nashville, TN 37213",37213,moderate,"69,143",Grass,USW00013897,"NASHVILLE INTERNATIONAL AIRPORT, TN US",36.11889,-86.68917,182.9
+NRG Stadium,"Houston, TX",2002,,retractable,"NRG Pkwy, Houston, TX 77054",77054,dome,"71,500",Grass,USW00012918,"HOUSTON WILLIAM P HOBBY AIRPORT, TX US",29.63806,-95.28194,13.4
+Oakland Coliseum,"Oakland, CA",1966,,outdoor,"7000 Coliseum Way, Oakland, CA 94621",94621,moderate,"53,250",Grass,USW00023230,"OAKLAND METROPOLITAN INTERNATIONAL AIRPORT, CA US",37.72139,-122.22083,1.8
+Orange Bowl,"Miami, FL",1946,1986,outdoor,"1501 NW 3rd St, Miami, FL 33125",33125,warm,,,USW00012839,"MIAMI INTERNATIONAL AIRPORT, FL US",25.7905,-80.3163,8.8
+Paul Brown Stadium,"Cincinnati, OH",2000,,outdoor,"1 Paul Brown Stadium, Cincinnati, OH 45202",45202,cold,"65,515",FieldTurf,USW00003871,"CINCINNATI WEATHER SERVICE OFFICE CITY, OH US",39.1,-84.51667,193.9
+Pitt Stadium,"Pittsburgh, PA",,,outdoor,"Terrace Street, Pittsburgh, PA 15260",15260,cold,,Grass,,,,,
+Pontiac Silverdome,"Pontiac, MI",1975,2001,indoor,"1200 Featherstone Rd, Pontiac, MI 48342",48342,dome,,,,,,,
+Pro Player Stadium,"Miami, FL",,,,,,,,,,,,,
+Qualcomm Stadium,"San Diego, CA",1967,,outdoor,"9449 Friars Rd, San Diego, CA 92108",92108,warm,"71,500",Grass,USW00093107,"SAN DIEGO MIRAMAR NAS, CA US",32.86667,-117.13333,145.4
+Ralph Wilson Stadium,"Orchard Park, NY",1973,,outdoor,"1 Bills Dr, Orchard Park, NY 14127",14127,cold,"73,967",FieldTurf,US1NYER0093,"BUFFALO 1.5 W, NY US",42.889,-78.8901,178
+Raymond James Stadium,"Tampa, FL",1998,2016,outdoor,"4201 N Dale Mabry Hwy, Tampa, FL 33607",33607,warm,"65,890",Grass,USW00012842,"TAMPA INTERNATIONAL AIRPORT, FL US",27.96194,-82.5403,5.8
+RCA Dome,"Indianapolis, IN",1984,2007,indoor,"100 S Capitol Ave, Indianapolis, IN 46225",46225,dome,,,,,,,
+Reliant Stadium,"Houston, TX",2002,,retractable,"NRG Pkwy, Houston, TX 77054",77054,dome,"71,500",Grass,USW00012918,"HOUSTON WILLIAM P HOBBY AIRPORT, TX US",29.63806,-95.28194,13.4
+RFK Memorial Stadium,"Washington, DC",1961,1996,outdoor,"2400 E Capitol St SE, Washington, DC 20003",20003,moderate,,,USC00186350,"NATIONAL ARBORETUM DC, MD US",38.9133,-76.97,15.2
+Rice Stadium,"Houston, TX",,,outdoor,"2176 University Boulevard, Houston, TX 77251",77251,warm,,Grass,,,,,
+Rogers Centre,"Toronto, Canada",,,indoor,"1 Blue Jays Way, Toronto, ON M5V 1J1, Canada","Toronto, CA",dome,,,,,,,
+Rose Bowl,"Pasadena, CA",,,outdoor,,,moderate,,Grass,,,,,
+Seattle Kingdome,"Seattle, WA",1976,1999,indoor,"422 2nd Ave S, Seattle, WA 98104",98104,dome,,,,,,,
+Shea Stadium,"Flushing, NY",,,outdoor,"123-01 Roosevelt Avenue, Flushing, NY 11368",11368,cold,,Grass,,,,,
+Soldier Field,"Chicago, IL",1926,,outdoor,"1410 Museum Campus Dr, Chicago, IL 60605",60605,cold,"61,500",Grass,USC00111550,"CHICAGO NORTHERLY ISLAND, IL US",41.8558,-87.6094,177.7
+Sports Authority Field at Mile High,"Denver, CO",2001,,outdoor,"1701 Bryant St, Denver, CO 80204",80204,cold,"76,125",Grass,USW00023062,"DENVER STAPLETON, CO US",39.7633,-104.8694,1611.2
+Stanford Stadium,"Palo Alto, CA",,,,,,,,,,,,,
+StubHub Center,"Los Angeles, CA",2017,,outdoor,"18400 S Avalon Blvd, Carson, CA 90746",90746,warm,27000,Grass,USW00023174,"LOS ANGELES INTERNATIONAL AIRPORT, CA US",33.938,-118.3888,29.6
+Sun Devil Stadium,"Tempe, AZ",1988,2005,outdoor,"500 E Veterans Way, Tempe, AZ 85287",85287,warm,,,US1AZMR0451,"TEMPE 3.6 NNW, AZ US",33.4552,-111.9316,375.2
+Sun Life Stadium,"Miami Gardens, FL",1987,,outdoor,"347 Don Shula Dr, Miami Gardens, FL 33056",33056,warm,,,USW00012839,"MIAMI INTERNATIONAL AIRPORT, FL US",25.7905,-80.3163,8.8
+Tampa Stadium,"Tampa, FL",,,,,,,,,,,,,
+TCF Bank Stadium,"Minneapolis, MN",2010,2015,outdoor,"420 SE 23rd Ave, Minneapolis, MN 55455",55455,cold,,,USW00014922,"MINNEAPOLIS ST PAUL INTERNATIONAL AIRPORT, MN US",44.8831,-93.2289,265.8
+Texas Stadium,"Irving, TX",1971,2008,outdoor,"2401 E Airport Fwy, Irving, TX 75062",75062,moderate,,,USC00410337,"ARLINGTON SIX FLAGS, TX US",32.7572,-97.0736,163.4
+Three Rivers Stadium,"Pittsburgh, PA",1970,2000,outdoor,"W General Robinson St, Pittsburgh, PA 15212",15212,cold,,,USW00094823,"PITTSBURGH ASOS, PA US",40.4846,-80.2144,366.7
+Tiger Stadium,"Detroit, MI",,,outdoor,"2121 Trumbull Ave., Detroit, MI 48216",48216,cold,,Grass,,,,,
+Tiger Stadium (LSU),"Baton Rouge, LA",2005,2005,outdoor,"Baton Rouge, LA 70803",70803,warm,,,,,,,
+Tulane Stadium,"New Orleans, LA",,,outdoor,"Willow St. & Audubon Blvd., New Orleans, LA 70118",70118,warm,,"Grass, Turf (1971-1974)",,,,,
+Twickenham Stadium,"London, UK",1909,,outdoor,"200 Whitton Road, TW2 7BA, London, UK",,moderate,,,,,,,
+U.S. Bank Stadium,"Minneapolis, MN",2016,,indoor,"401 Chicago Ave, Minneapolis, MN 55415",55415,dome,"66,200",FieldTurf,,,,,
+University of Phoenix Stadium,"Glendale, AZ",2006,,retractable,"1 Cardinals Dr, Glendale, AZ 85305",85305,dome,"63,400",Grass,US1AZMR0451,"TEMPE 3.6 NNW, AZ US",33.4552,-111.9316,375.2
+Vanderbilt Stadium,"Nashville, TN",1998,1998,outdoor,"Nashville, TN 37203",37203,moderate,,,USW00013897,"NASHVILLE INTERNATIONAL AIRPORT, TN US",36.11889,-86.68917,182.9
+Veterans Stadium,"Philadelphia, PA",1971,2002,outdoor,"3501 South Broad Street, Philadelphia, Pennsylvania 19148",19148,cold,,,USW00013739,"PHILADELPHIA INTERNATIONAL AIRPORT, PA US",39.87327,-75.22678,3
+War Memorial Stadium,"Buffalo, NY",1960,1972,outdoor,"285 Dodge Street, Buffalo, NY 14208",14208,cold,,,,,,,
+Wembley Stadium,"London, UK",2007,,outdoor,"Wembley, London HA9 0WS, United Kingdom","Heathrow, UK",moderate,,,,,,,
+Wrigley Field,"Chicago, IL",1920,1970,outdoor,"1060 West Addison Street, Chicago, IL 60613",60613,cold,,,,,,,
+Yale Bowl,"New Haven, CT",,,outdoor,"276 Derby Ave, West Haven, CT 06516",06516,cold,,Grass,,,,,
+Yankee Stadium,"Bronx, NY",,,outdoor,,,cold,,,,,,,
