@@ -51,7 +51,7 @@ After running our regressions, we plugged in the data from Week 1 of the 2018 se
 
 For Week 1, we correctly predicted 9 of 16 games. We also ran every prior game through our model to see how accurate it would be if we had bet on every single game since 1979 (Weeks 5-16). Our model gave good predictions 54.79% of the time, classified as when our model guided the bettor to a win or push.
 
-###### Results
+###### Back-tested Results
 <p align="center">
   <img src="https://github.com/slieb74/NFL-Betting-Data/blob/master/images/Screen%20Shot%202018-10-09%20at%201.01.10%20PM.png" width='300' height='300'>
 </p>
