@@ -25,7 +25,7 @@ To narrow down our features, we explored the correlations each had with the Over
   <img src="https://github.com/slieb74/NFL-Betting-Data/blob/master/images/Screen%20Shot%202018-10-09%20at%2012.45.15%20PM.png" width='450' height='400'> 
 </p>
 
-For our model, we tested out linear, log-linear, and log-log regression models, settling on a linear regression which fit out data best. Due to the odd distribution of NFL scores (most scoring plays are either 3 or 7 points), we used the BoxCox Power Transformation on each of our variables to transform them into a more normal distribution. Our final regression model had an Adjusted R^2 of 0.697
+For our model, we tested out linear, log-linear, and log-log regression models, settling on a linear regression which fit out data best. Due to the odd distribution of NFL scores (most scoring plays are either 3 or 7 points), we used the BoxCox Power Transformation on each of our variables to transform them into a more normal distribution. Our final regression model had an Adjusted R^2 of 0.697.
 
 ###### Boxcox Transformation for Points per Game
 
