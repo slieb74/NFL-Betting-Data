@@ -1,7 +1,7 @@
 # Regression Model to Predict Over/Under Outcomes for the Upcoming NFL Season
 
 ## Goal
-Develop a model that can recommend to bettors whether teams are likely to go over or under the set line
+Develop a regression model that can recommend to bettors whether teams are likely to go over or under the set line
 
 ## ETL 
 - To train our regression model, we used a dataset with every NFL game since 1979, with features including betting lines, game outcomes, weather conditions, and more. 
